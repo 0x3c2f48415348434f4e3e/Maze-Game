@@ -1,0 +1,9 @@
+﻿  Main.c
+C:\Users\benja\source\repos\Maze Game\Main.c(4,16): warning C4026: function declared with formal parameter list
+Main.obj : error LNK2019: unresolved external symbol _SDL_GetError referenced in function _WindowSetup
+Main.obj : error LNK2019: unresolved external symbol _SDL_CreateWindow referenced in function _WindowSetup
+Main.obj : error LNK2019: unresolved external symbol _SDL_Init referenced in function _WindowSetup
+MSVCRTD.lib(exe_main.obj) : error LNK2019: unresolved external symbol _main referenced in function "int __cdecl invoke_main(void)" (?invoke_main@@YAHXZ)
+C:\SDL\SDL2-2.26.2\lib\x64\SDL2.lib : warning LNK4272: library machine type 'x64' conflicts with target machine type 'x86'
+C:\SDL\SDL2-2.26.2\lib\x64\SDL2main.lib : warning LNK4272: library machine type 'x64' conflicts with target machine type 'x86'
+C:\Users\benja\source\repos\Maze Game\Debug\Maze Game.exe : fatal error LNK1120: 4 unresolved externals
