@@ -1,0 +1,5 @@
+﻿  Main.c
+C:\Users\benja\source\repos\Maze Game\Main.c(4,16): warning C4026: function declared with formal parameter list
+  WindowSetup.c
+  Generating Code...
+C:\Users\benja\source\repos\Maze Game\WindowSetup.c(37): error C4700: uninitialized local variable 'event' used
